@@ -94,7 +94,7 @@ button {
 }
 
 .btn-pri-light:hover {
-    opacity: 0.8;
+    background-color: #d47599;
 }
 
 .btn-sec-light,
